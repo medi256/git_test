@@ -1,2 +1,3 @@
 # git_test
-My_firts_odin_project
+My_first_odin_project
+This was my first cloning from gitHub
